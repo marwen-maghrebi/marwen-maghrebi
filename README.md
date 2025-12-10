@@ -57,12 +57,24 @@ OpenCV · Firebase
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwen-maghrebi&theme=github_dark)
+<!-- Profile Summary -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwen-maghrebi&theme=github_dark" alt="GitHub Profile Summary" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwen-maghrebi&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marwen-maghrebi&theme=github_dark&utcOffset=1)
+<!-- General Stats + Productive Time -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwen-maghrebi&theme=github_dark" alt="GitHub Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marwen-maghrebi&theme=github_dark&utcOffset=1" alt="Productive Time" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=marwen-maghrebi&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<!-- Repo & Stars -->
+<img src="https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
+
 
 
 ## 📫 **Let's Connect**
