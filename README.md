@@ -51,7 +51,7 @@ Visual Studio · VS Code · STM32CubeIDE · PlatformIO · EasyEDA · Git
 Linux · Debian · Ubuntu
 
 **Other Technologies:**  
-Gazebo · OpenCV · Firebase · WordPress
+ OpenCV · Firebase 
 
 
 ## 📫 **Let's Connect**
