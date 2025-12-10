@@ -70,9 +70,10 @@ OpenCV · Firebase
 ---
 
 ## 📫 **Let's Connect**
+📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com
 
-📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com) 
 🔗 **LinkedIn:** [linkedin.com/in/marwen-maghrebi](https://www.linkedin.com/in/marwen-maghrebi/)  
+
 🔗 **Hackster:** [hackster.io/theembeddedthings](https://www.hackster.io/theembeddedthings)  
 
 ---
