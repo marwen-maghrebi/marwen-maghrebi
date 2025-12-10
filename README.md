@@ -1,3 +1,5 @@
+[![Support Palestine](https://img.shields.io/badge/Support-Palestine-blue)](https://www.map.org.uk/)
+
 ![](https://komarev.com/ghpvc/?username=marwen-maghrebi&style=for-the-badge&color=blue)
 
 # 👋 Hello, I'm Marwen — Embedded Systems Engineer  
@@ -49,24 +51,29 @@ Visual Studio · VS Code · STM32CubeIDE · PlatformIO · EasyEDA · Git
 Linux · Debian · Ubuntu
 
 **Other Technologies:**  
-Gazebo · OpenCV · Firebase · WordPress
+OpenCV · Firebase 
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=marwen-maghrebi&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 **Let's Connect**
 
-🔗 **GitHub:** [github.com/marwen-maghrebi](https://github.com/marwen-maghrebi)  
+📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com) 
 🔗 **LinkedIn:** [linkedin.com/in/marwen-maghrebi](https://www.linkedin.com/in/marwen-maghrebi/)  
 🔗 **Hackster:** [hackster.io/theembeddedthings](https://www.hackster.io/theembeddedthings)  
-📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com)
 
 ---
 
