@@ -53,21 +53,17 @@ Linux · Debian · Ubuntu
 **Other Technologies:**  
 OpenCV · Firebase 
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true)
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=marwen-maghrebi&theme=dark&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwen-maghrebi&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwen-maghrebi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marwen-maghrebi&theme=github_dark&utcOffset=1)
 
 </div>
 
----
 
 ## 📫 **Let's Connect**
 📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com
