@@ -1,4 +1,4 @@
-[![Support Palestine](https://img.shields.io/badge/🇵🇸_Support_Palestine-0072B1?style=for-the-badge&labelColor=000000&color=0072B1)](https://www.map.org.uk/)
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 ![](https://komarev.com/ghpvc/?username=marwen-maghrebi&style=for-the-badge&color=blue)
 
