@@ -53,31 +53,13 @@ Linux · Debian · Ubuntu
 **Other Technologies:**  
 Gazebo · OpenCV · Firebase · WordPress
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true)
-
-### GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=marwen-maghrebi&theme=dark&hide_border=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 ## 📫 **Let's Connect**
 
 🔗 **GitHub:** [github.com/marwen-maghrebi](https://github.com/marwen-maghrebi)  
 🔗 **LinkedIn:** [linkedin.com/in/marwen-maghrebi](https://www.linkedin.com/in/marwen-maghrebi/)  
 🔗 **Hackster:** [hackster.io/theembeddedthings](https://www.hackster.io/theembeddedthings)  
-📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@example.com) *// Replace with your actual email*
+📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com) 
 
 ---
 
