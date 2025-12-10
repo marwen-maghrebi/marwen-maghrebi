@@ -1,4 +1,4 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 ![](https://komarev.com/ghpvc/?username=marwen-maghrebi&style=for-the-badge&color=blue)
 
@@ -51,38 +51,33 @@ Visual Studio · VS Code · STM32CubeIDE · PlatformIO · EasyEDA · Git
 Linux · Debian · Ubuntu
 
 **Other Technologies:**  
-OpenCV · Firebase 
+Gazebo · OpenCV · Firebase · WordPress
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true)
 
-<!-- Profile Summary -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwen-maghrebi&theme=github_dark" alt="GitHub Profile Summary" />
+### GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=marwen-maghrebi&theme=dark&hide_border=true)
 
-<!-- General Stats + Productive Time -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marwen-maghrebi&theme=github_dark" alt="GitHub Stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marwen-maghrebi&theme=github_dark&utcOffset=1" alt="Productive Time" />
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=marwen-maghrebi&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<!-- Repo & Stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=marwen-maghrebi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwen-maghrebi&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-
+---
 
 ## 📫 **Let's Connect**
-📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com
 
+🔗 **GitHub:** [github.com/marwen-maghrebi](https://github.com/marwen-maghrebi)  
 🔗 **LinkedIn:** [linkedin.com/in/marwen-maghrebi](https://www.linkedin.com/in/marwen-maghrebi/)  
-
 🔗 **Hackster:** [hackster.io/theembeddedthings](https://www.hackster.io/theembeddedthings)  
+📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@example.com) *// Replace with your actual email*
 
 ---
 
