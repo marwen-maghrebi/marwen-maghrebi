@@ -59,7 +59,7 @@ Linux · Debian · Ubuntu
 🔗 **GitHub:** [github.com/marwen-maghrebi](https://github.com/marwen-maghrebi)  
 🔗 **LinkedIn:** [linkedin.com/in/marwen-maghrebi](https://www.linkedin.com/in/marwen-maghrebi/)  
 🔗 **Hackster:** [hackster.io/theembeddedthings](https://www.hackster.io/theembeddedthings)  
-📧 **Email:** [marwen.maghrebi@example.com](mailto:marwen.maghrebi@gmail.com) 
+📧 **Email:** [marwen.maghrebi@gmail.com](mailto:marwen.maghrebi@gmail.com) 
 
 ---
 
